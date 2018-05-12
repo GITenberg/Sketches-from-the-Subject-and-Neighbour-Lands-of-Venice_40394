@@ -1,0 +1,34 @@
+_repo: Sketches-from-the-Subject-and-Neighbour-Lands-of-Venice_40394
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Freeman, Edward A. (Edward Augustus)
+    aliases:
+    - Freeman, Edward Augustus
+    - Freeman, E. A. (Edward Augustus)
+    birthdate: 1823
+    deathdate: 1892
+    gutenberg_agent_id: '526'
+    url: http://www.gutenberg.org/2009/agents/526
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Augustus_Freeman
+description: ''
+gutenberg_issued: '2012-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40394'
+  lccn: '04024655'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Venice (Italy) -- Description and travel'
+- !lcsh 'Dalmatia (Croatia) -- Description and travel'
+- !lcsh 'Corfu Island (Greece)'
+- !lcsh 'Architecture, Italian'
+- !lcc 'NA'
+title: Sketches from the Subject and Neighbour Lands of Venice
+url: http://www.gutenberg.org/ebooks/40394
