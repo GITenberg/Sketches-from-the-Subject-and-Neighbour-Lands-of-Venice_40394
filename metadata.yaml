@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/526
     wikipedia: http://en.wikipedia.org/wiki/Edward_Augustus_Freeman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40394#Sketches-from-the-Subject-and-Neighbour-Lands-of-Venice
 gutenberg_issued: '2012-08-02'
 gutenberg_type: Text
 identifiers:
